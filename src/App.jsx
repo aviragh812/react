@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <label className='mystyle'>SNAKE WORLD</label>
+      <label className='mystyle'>SNAKE WORLD LOVER</label>
     </>
   );
 }
