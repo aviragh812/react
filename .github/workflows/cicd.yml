@@ -21,3 +21,11 @@ jobs:
 
       - name: Install CI
         run: npm ci
+
+      - name: Build the Project
+        run: npm run build
+
+      #configur Git Identity
+      # - name: Configure Git
+      #   run: |
+      #     git conifg --global user.name
